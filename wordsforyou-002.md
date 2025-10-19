@@ -1,0 +1,30 @@
+# Sonnet 18 by William Shakespeare
+
+- Shall I compare thee to a summer's day?
+- 我可能把你和夏天相比拟？
+- Thou art more lovely and more temperate;
+- 你比夏天更可爱更温和；
+- Rough winds do shake the darling buds of May,
+- 狂风会把五月的花苞吹落地，
+- And summer's lease hath all too short a date;
+- 夏天也嫌太短促，匆匆而过：
+- Sometime too hot the eye of heaven shines,
+- 有时太阳照得太热，
+- And often is his gold complexion dimm'd;
+- 常常又遮暗他的金色的脸；
+- And every fair from fair sometime declines,
+- 美的事物总不免要凋落，
+- By chance or nature's changing course untrimm'd;
+- 偶然的，或是随自然变化而流转。
+- But thy eternal summer shall not fade,
+- 但是你的永恒之夏不会褪色；
+- Nor lose possession of that fair thou ow'st;
+- 你不会失去你的俊美的仪容；
+- Nor shall Death brag thou wander'st in his shade,
+- 死神不能夸说你在他的阴影里面走着，
+- When in eternal lines to time thou grow'st;
+- 如果你在这不朽的诗句里获得了永生；
+- So long as men can breathe or eyes can see,
+- 只要人们能呼吸，眼睛能看东西，
+- So long lives this, and this gives life to thee.
+- 此诗就会不朽，使你永久生存下去。
